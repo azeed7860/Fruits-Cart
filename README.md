@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=========================================================================================
+first download zip file type ---> npm init
+-->later download these dependencies
+=>>npm install react-use-cart
+=>>npm i bootstrap
+=>>npm install styled-components
+=>>npm install react-router-dom
+=>>npm install bootstrap-icons
